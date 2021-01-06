@@ -1,4 +1,4 @@
-# Reproducing Webpack issue
+# Reproducing Webpack issue [#12339](https://github.com/webpack/webpack/issues/12339)
 `!new.target.isInitialized` is bundled as `true`
 
 To reproduce:
